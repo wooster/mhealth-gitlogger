@@ -5,7 +5,7 @@ You should run gitlogger first.
 
 You'll need to (somehow) get an OAuth token with rights for::
 
-	/admin/health/source/healthydrinker
+	/admin/health/source/gitlogger
 
 Then, you can run with::
 
